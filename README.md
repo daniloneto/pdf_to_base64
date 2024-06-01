@@ -1,3 +1,1 @@
-#PDF to Base64
-
-pip install PyQt5
+# PDF to Base 64
